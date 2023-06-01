@@ -6,7 +6,7 @@
 
 <br>
 
-![Luiz GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizxDev&show_icons=true&theme=dracula)
+![Luiz GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizxDev&show_icons=true&theme=dark)
 
 ## Tecnologias que estou estudando
 
