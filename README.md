@@ -1,5 +1,11 @@
 ### Olá! Eu sou o Luiz 👋
 
+🔭Atualmente sou: Estudante do Ensino Médio e Curso Técnico de TI no IFPA
+🌱Atualmente estou estudando: JAVA / MYSQL
+⚡Estou a procura de mais conhecimento
+
+<br>
+
 ![Luiz GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizxDev&show_icons=true&theme=dracula)
 
 ## Tecnologias que eu uso no meu dia
