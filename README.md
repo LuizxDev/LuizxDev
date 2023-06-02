@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Luiz 👋
 
-- 🔭Atualmente sou: Estudante do Ensino Médio e Curso Técnico de TI no IFPA
+- 🔭Atualmente sou: Estudante do Ensino Médio e Curso Técnico de T.I no IFPA
 - 🌱Atualmente estou estudando: JAVA / MYSQL
 - ⚡Estou a procura de mais conhecimento
 
